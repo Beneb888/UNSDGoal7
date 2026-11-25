@@ -27,7 +27,7 @@ img {
   max-width: 100%;  /* Shrinks the image to fit smaller screens */
   height: auto;     /* Keeps the original aspect ratio so it doesn't stretch */
   border-radius: 30px;
-  border: 10px solid #111111;
+  border: 5px solid #111111;
 }
 
 nav ul {
