@@ -26,7 +26,7 @@ img {
   width: 400px;
   max-width: 100%;  /* Shrinks the image to fit smaller screens */
   height: auto;     /* Keeps the original aspect ratio so it doesn't stretch */
-  border-radius: 30px;
+  border-radius: 30px;    /* I love the comments! */
   border: 5px solid #111111;
 }
 
